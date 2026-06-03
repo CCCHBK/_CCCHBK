@@ -10,7 +10,7 @@ is the embodiment of a vision of learning that is
 - project based
 - passsion driven
 - shared with peers
-- playful
+- playful - PlAyFuL - playFUL - PlAYfUL - ...
   <br/><br/>
 - attend in person in free spaces this summer 2026
 - approximate locations: brooklyn 11201, 11234,
