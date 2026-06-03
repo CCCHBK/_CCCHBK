@@ -12,7 +12,7 @@ is the embodiment of a vision of learning that is
 - shared with peers
 - playful - PlAyFuL - playFUL - PlAYfUL - ...
   <br/><br/>
-- attend in person in free spaces this summer 2026
+- attend in person (or on screens) in free spaces this summer 2026
 - approximate locations: brooklyn 11201, 11234,
 - and globally via the World Wide Web.
 
