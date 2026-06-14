@@ -15,7 +15,7 @@ is the embodiment of a vision of learning that is
 - approximate locations: brooklyn 11201, 11234,
 - and globally via the World Wide Web.
 
-offered by [John Henry Thompson](https://jht1493.net/johnhenrythompson/)
+offered by [John Henry Thompson](https://johnhenrythompson.com/)
 
 ## Grounding
 
