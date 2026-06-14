@@ -7,11 +7,11 @@
 CCCHBK, Creative Computing Club House Brooklyn, <br/>
 is the embodiment of a vision of learning that is
 
-- project based
-- passsion driven
-- shared with peers
 - playful - PlAyFuL - playFUL - PLAYful - ...
   <br/><br/>
+- passsion driven
+- shared with peers
+- project based
 - attend in person (or on screens) in free spaces this summer 2026
 - approximate locations: brooklyn 11201, 11234,
 - and globally via the World Wide Web.
