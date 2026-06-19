@@ -42,6 +42,8 @@ offered by [John Henry Thompson](https://www.johnhenrythompson.com/)
 
 - [future-sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
 
+- [Algebra Project - secure math literacy](https://algebra.org/)
+  
 ## Inspiration
 
 - [Seymour Papert](https://jht1493.net/johnhenrythompson/0-refections-on-learning.html)
