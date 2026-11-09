@@ -57,3 +57,21 @@ offered by [John Henry Thompson](https://www.johnhenrythompson.com/)
 ![colorized-jht](images/colorized-jht.jpg)
 
 ![83_jt_ibm_pc.jpg](images/83_jt_ibm_pc.jpg)
+
+## JHT bio
+
+Computer scientist, artist, and educator John Henry Thompson explores the relationship between technology and creative expression. Mr. Thompson studied studio art at the New York Student Art League and the Boston Museum School. He earned his Bachelor of Science degree in Computer Science and Visual Studies from the Massachusetts Institute of Technology (MIT) in 1983. After graduating, he continued at MIT as a technical instructor and developed an early color pre-press design system for the Visible Language Workshop, which is now part of the MIT Media Lab. Mr. Thompson then became a project lead at Lucas film on the EditDroid project, an early nonlinear editing system. In this period, he created art using 3D graphics, video discs, and real-time video processing.
+
+In 1987, Mr. Thompson’s interest in both art and technology led him to Macromedia (formerly MacroMind). At Macromedia, he contributed to the development of a number of products, including The VideoWorks Accelerator, VideoWorks II, MediaMaker, Action, and Macromedia Director. For Macromedia Director, a multimedia authoring product, he invented the Lingo programming language and XObjects, which were key in making interactive multimedia accessible to creative professionals from non-engineering backgrounds.
+
+In the overlapping time frame from 1988 to 1997, Mr. Thompson was a professor at New York University Tisch School of the Arts’ Interactive Telecommunications Program (NYU-ITP). He created and taught a series of courses: “Introduction to Computational Media”, “Animation on Macintosh Computer”, “Advanced Computational Media”, “Interactive Video”, and “The Lingo Workshop.” The common theme for these courses was creative expression using the latest technology available. He continued teaching creative coding workshops in Philadelphia, PA, and Jamaica, the West Indies, into the 2000s. He joined his brother Jervis Thompson as a partner at EP Visual Design, a PA-based studio. He was a member of a small team that harnessed the latest technologies and techniques to create rich media websites, custom applications, and content management systems.
+
+Mr. Thompson returned to NYU-ITP in 2020 as a visiting scholar to continue his exploration of technology and creative expression. He rejoined the faculty in the fall of 2020 as an adjunct instructor to teach an updated version of “Introduction to Computational Media”, and other courses centered on creative computing and social justice.
+
+Current work: https://jht1493.net/
+
+Creative Computing Club House Brooklyn – https://github.com/CCCHBK/_CCCHBK
+
+Social Justice – https://woke-mind.github.io/Movement/
+
+
