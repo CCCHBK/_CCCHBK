@@ -14,8 +14,15 @@ is the embodiment of a vision of learning that is
 - attend in person (or on screens) in free spaces this summer 2026
 - approximate locations: brooklyn 11201, 11234,
 - and globally via the World Wide Web.
-
+- 
 offered by [John Henry Thompson](https://www.johnhenrythompson.com/) 
+
+## Event
+
+- 2026-11-13 Friday 1pm - 6pm @ https://wcartiprc.com/
+- Plan to discuss vision and funding options for CCCHBK
+- John Henry will share his vision for a space for playful learning
+- and social justice advocacy and civic engagement
 
 ## Grounding
 
