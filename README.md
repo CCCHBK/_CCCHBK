@@ -18,7 +18,8 @@ is the embodiment of a vision of learning that is
 - playful - PlAyFuL - playFUL - PLAYful - ...
 - passsion driven
 - project based
-- shared with peers <br/><br/>
+- shared with peers
+- builds tools for social justice advocacy and civic engagement <br/><br/>
 - attend in person (or on screens) in free spaces this summer 2026
 - approximate locations: brooklyn 11201, 11234,
 - and globally via the World Wide Web.
