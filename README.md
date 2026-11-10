@@ -1,5 +1,13 @@
 # [CCCHBK](https://github.com/CCCHBK/_CCCHBK.git)
 
+## Event
+
+- CCCHBK symposium @ WC Art
+- 2026-11-13 Friday 1pm - 6pm @ https://wcartiprc.com/
+- Plan to discuss vision and funding options for CCCHBK
+- John Henry will share his vision for a space for playful learning
+- and social justice advocacy and civic engagement
+
 ## Creative Computing Club House Brooklyn
 
 ![vision](images/vision.jpeg)
@@ -17,13 +25,6 @@ is the embodiment of a vision of learning that is
 - 
 offered by [John Henry Thompson](https://www.johnhenrythompson.com/) 
 
-## Event
-
-- CCCHBK symposium @ WC Art
-- 2026-11-13 Friday 1pm - 6pm @ https://wcartiprc.com/
-- Plan to discuss vision and funding options for CCCHBK
-- John Henry will share his vision for a space for playful learning
-- and social justice advocacy and civic engagement
 
 ## Grounding
 
