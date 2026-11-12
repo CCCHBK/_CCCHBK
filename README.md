@@ -3,7 +3,7 @@
 ## Event
 
 - CCCHBK symposium @ WC Art
-- 2026-11-13 Friday 1pm - 4pm @ https://wcartiprc.com/
+- 2026-11-13 Friday 1pm - 4pm @ [W C Art](https://wcartiprc.com/)
 - Plan to discuss vision and funding options for CCCHBK
 - John Henry will share his vision for a space for playful learning
 - and social justice advocacy and civic engagement
