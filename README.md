@@ -2,8 +2,11 @@
 
 ## Event
 
-- CCCHBK symposium @ WC Art - 351 Jay Street in downtown
-- 2026-11-13 Friday 1pm - 4pm @ [W C Art](https://wcartiprc.com/)
+- CCCHBK symposium
+- 2026-11-13 Friday 1pm - 4pm @ [On zoom](https://nyu.zoom.us/my/john.henry.thompson)
+ - virtual due to last minute medical emergency
+- ~~CCCHBK symposium @ WC Art - 351 Jay Street in downtown~~
+- ~~2026-11-13 Friday 1pm - 4pm @ [W C Art](https://wcartiprc.com/)~~
 - Plan to discuss vision and funding options for CCCHBK
 - John Henry will share his vision for a space for playful learning
 - and social justice advocacy and civic engagement
