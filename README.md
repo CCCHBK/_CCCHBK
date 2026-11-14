@@ -64,7 +64,8 @@ offered by [John Henry Thompson](https://www.johnhenrythompson.com/)
 
 [![IMG_3807-resisting.jpeg](images/IMG_3807-resisting.jpeg)](./resisting.md)<br/>
 **[Black World Aesthetics](./resisting.md)**
-
+- [Black STEA2M Ecologies as a Technology of Social Justice](https://woke-mind.github.io/Movement/#inspiration)
+  
 ![IMG_5174-iron-pixel.jpg](images/IMG_5174-iron-pixel.jpg)
 
 ![colorized-jht](images/colorized-jht.jpg)
